@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of Dolomites] (https://de.wikipedia.org/wiki/Dolomiten#/media/Datei:Dolomiten_Marmolada-Ciampestrin.jpg)
